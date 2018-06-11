@@ -10,5 +10,5 @@ Personal Portfolio to represent myself.
 **Copyright (c) 2018 Eyakub**
 
 ## Thanks to [Brittany Chiang](https://github.com/bchiang7/bchiang7.github.io)
-
+## Also thanks to my friend [Shahariar Rabby](https://github.com/shahariarrabby)
 
