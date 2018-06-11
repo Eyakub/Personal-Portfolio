@@ -7,7 +7,7 @@ Personal Portfolio to represent myself.
 # License
 **[MIT License](https://opensource.org/licenses/MIT)**
 
-**Copyright (c) 2018-3018 Eyakub**
+**Copyright (c) 2018 Eyakub**
 
 ## Thanks to [Brittany Chiang](https://github.com/bchiang7/bchiang7.github.io)
 
